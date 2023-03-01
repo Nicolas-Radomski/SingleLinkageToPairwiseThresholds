@@ -130,6 +130,6 @@ Rscript SingleLinkageToPairwiseThresholds.R Profiles.csv 4 7 10 13 6 50
 # Illustration
 ![Non-parametric figure](https://github.com/Nicolas-Radomski/SingleLinkageToPairwiseThresholds/blob/main/illustration.png)
 # Acknowledgment
-The GENPAT-IZASM Staff for our discussions aiming at managing arguments
+The GENPAT-IZSAM Staff for our discussions aiming at managing arguments
 # Author
 Nicolas Radomski
